@@ -20,14 +20,6 @@ Seen by @xdarklight on RTL8822CS
 
 Seen by @xdarklight on RTL8822CS
 
-## RTW8822CS scanning does not work
-
-Seen by @xdarklight on RTL8822CS with:
-```
-[    4.510964] rtw_8822cs mmc2:0001:1: Firmware version 9.9.10, H2C version 15
-[    4.521842] rtw_8822cs mmc2:0001:1: Firmware version 9.9.4, H2C version 15
-```
-
 ## random issue collection on RTW8822CS
 
 ```

@@ -1,5 +1,13 @@
 # TODOs
 
+## RX aggregation decreases performance
+
+RX aggregation is implemented but currently disabled because it decreases RX
+throughput by 10-20%. The RTL8822CS vendor driver doesn't disable RX
+aggregation every because: "DON'T disable rxagg for 11ac 5.2.9a 1ss TP FAIL"
+
+# known issues
+
 ## rtw_8822bs mmc1:0001:1: firmware failed to leave lps state
 
 Seen by @jernejsk and @xdarklight

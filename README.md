@@ -22,11 +22,11 @@ Seen by @xdarklight on RTL8822CS with:
 
 ## rtw_8822cs mmc2:0001:1: failed to get tx report from firmware
 
-Seen by @xdarklight on RTL8822CS
+Seen by @xdarklight on RTL8822CS and @jernejsk on RTL8822BS with newest FW
 
 ## rtw_8822cs mmc2:0001:1: timed out to flush queue 2
 
-Seen by @xdarklight on RTL8822CS
+Seen by @xdarklight on RTL8822CS and @jernejsk on RTL8822BS with newest FW
 
 ## random issue collection on RTW8822CS
 
